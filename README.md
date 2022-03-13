@@ -6,3 +6,6 @@
 
 
 **Insertar una imagen**
+
+![logo](imagen/logo.PNG)
+
